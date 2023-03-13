@@ -3,7 +3,7 @@
 This repository contains code examples for an insurance pricing example using ML techniques for the Data Science & AI Risk Management Industry Group.
 
 ## Data
-We are utilising synthetic data generated in So, B., Boucher, J-P., and Valdez, E.A., 2021. Synthetic dataset generation of driver telematics. _Risks_, 9(4), 58. The dataset is available at http://www2.math.uconn.edu/~valdez/data.html. We have included int the `data/` folder for reference.
+We are utilising synthetic data generated in So, B., Boucher, J-P., and Valdez, E.A., 2021. Synthetic dataset generation of driver telematics. _Risks_, 9(4), 58. The dataset is available at http://www2.math.uconn.edu/~valdez/data.html. We have included it in the `data/` folder for reference.
 
 ## Aim
 The aim of the investigation is to utilise a motor insurance pricing example in order to evidence instances of proxy discrimination, fairness, individualisation of premiums, and the use of explainability techniques.
