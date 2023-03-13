@@ -1,5 +1,6 @@
 # Data Science AI and Risk Management Industry Group
-This repository contains code examples pertaining to proxy discrimination and individualisation of risk premiums for the _Data Science &amp; AI Risk Management Industry Group_.
+
+This repository contains code examples for an insurance pricing example using ML techniques for the Data Science & AI Risk Management Industry Group.
 
 ## Data
 We are utilising synthetic data generated in So, B., Boucher, J-P., and Valdez, E.A., 2021. Synthetic dataset generation of driver telematics. _Risks_, 9(4), 58. The dataset is available at http://www2.math.uconn.edu/~valdez/data.html. We have included int the `data/` folder for reference.
